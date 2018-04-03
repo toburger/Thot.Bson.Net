@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Thot.Bson.Net", "Thot.Bson.Net\Thot.Bson.Net.fsproj", "{B855050D-1852-46AC-B1B4-D8C01063002D}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Thot.Tests", "Thot.Tests\Thot.Tests.fsproj", "{A9A30A5A-2477-41C9-A5A0-E0336608AE39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B855050D-1852-46AC-B1B4-D8C01063002D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B855050D-1852-46AC-B1B4-D8C01063002D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B855050D-1852-46AC-B1B4-D8C01063002D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B855050D-1852-46AC-B1B4-D8C01063002D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9A30A5A-2477-41C9-A5A0-E0336608AE39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9A30A5A-2477-41C9-A5A0-E0336608AE39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9A30A5A-2477-41C9-A5A0-E0336608AE39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9A30A5A-2477-41C9-A5A0-E0336608AE39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {305AB9DC-46E2-4D3E-A413-829538B28B9E}
+	EndGlobalSection
+EndGlobal
